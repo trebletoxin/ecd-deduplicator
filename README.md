@@ -1,11 +1,11 @@
-# Encore Downloader
+# ECD Deduplicator
 This tool is meant to be used to download all charts that are posted on [enchor.us](https://www.enchor.us/) for use in Clone Hero.
 
 At this time, all charts downloaded are converted from .sng to chart formats compatible with Clone Hero 1.0.0.4080
 
 Once CH 1.1.0 is released and supports .sng format charts, this will be updated to allow direct downloads without conversion.
 
-## NOTES - DO NOT SKIP THIS
+## NOTES - 
 
 Allowing this tool to fully download all charts will require roughly 400GB of disk space. If you do not have enough space to accomidate this, it will fill up your disk.
 
@@ -87,5 +87,6 @@ macOS is not tested, but should work assuming you get a python environment setup
 [Geomitron](https://github.com/Geomitron) - [Bridge](https://github.com/Geomitron/Bridge) - The inspiration for this tool, and [enchor.us](https://www.enchor.us/) to make this possible
 
 [Matthew Sitton](https://github.com/mdsitton) - [SngCli](https://github.com/mdsitton/SngFileFormat) - For detailed breakdown of the .sng file. This was essential in the creation a custom python handler for the sng format.
+
 
 [chriskiehl](https://github.com/chriskiehl) - [Gooey](https://github.com/chriskiehl/Gooey) - Simple GUI builder for python projects.
