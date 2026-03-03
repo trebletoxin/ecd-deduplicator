@@ -12,6 +12,8 @@ If charts are "duplicate" and both reside in the directory used in the downloade
 
 A GUI executable has been built for Windows.
 
+![GUI Photo](https://raw.githubusercontent.com/trebletoxin/ecd-deduplicator/refs/heads/main/src/img/GUI-Photo.png)
+
 ### GUI Usage
 
 Download the latest version from the [releases](https://github.com/trebletoxin/ecd-deduplicator/releases).
@@ -45,3 +47,4 @@ macOS is not tested, but should work assuming you get a python environment setup
 ## Credit
 
 [chriskiehl](https://github.com/chriskiehl) - [Gooey](https://github.com/chriskiehl/Gooey) - Simple GUI builder for python projects.
+
